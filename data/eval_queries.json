@@ -1,0 +1,18 @@
+[
+  {"id":"bicycles","mode":"text","query":"people riding bicycles","relevant_ids":["sc_00003","sc_00009"]},
+  {"id":"bathrooms","mode":"text","query":"bathroom shower toilet","relevant_ids":["sc_00007","sc_00008","sc_00010","sc_00011"]},
+  {"id":"kitchen","mode":"text","query":"kitchen counters","relevant_ids":["sc_00004"]},
+  {"id":"wooden_tools","mode":"text","query":"wooden spoons on a table","relevant_ids":["sc_00006"]},
+  {"id":"aircraft","mode":"text","query":"airplanes at an airport or field","relevant_ids":["sc_00019","sc_00020","sc_00021"]},
+  {"id":"giraffe","mode":"text","query":"giraffe eating leaves from a tree","relevant_ids":["sc_00030"]},
+  {"id":"sheep","mode":"text","query":"sheep in a snowy field","relevant_ids":["sc_00027"]},
+  {"id":"dog_man","mode":"text","query":"white dog beside an elderly man","relevant_ids":["sc_00023"]},
+  {"id":"birthday","mode":"text","query":"girl blowing out a candle","relevant_ids":["sc_00002"]},
+  {"id":"vegetables","mode":"text","query":"vegetables in a barrel outdoors","relevant_ids":["sc_00017"]},
+  {"id":"traffic_lights","mode":"text","query":"traffic lights under cloudy sky","relevant_ids":["sc_00024"]},
+  {"id":"swan","mode":"text","query":"swan floating beside a boat","relevant_ids":["sc_00029"]},
+  {"id":"syn_restroom","mode":"text","query":"restroom","relevant_ids":["sc_00007","sc_00008","sc_00010","sc_00011"]},
+  {"id":"syn_aircraft","mode":"text","query":"aircraft","relevant_ids":["sc_00019","sc_00020","sc_00021"]},
+  {"id":"syn_giraffe","mode":"text","query":"wildlife with a very long neck","relevant_ids":["sc_00030"]},
+  {"id":"syn_dog","mode":"text","query":"canine companion senior citizen","relevant_ids":["sc_00023"]}
+]

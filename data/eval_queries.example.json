@@ -1,0 +1,32 @@
+[
+  {
+    "id": "t01",
+    "mode": "text",
+    "query": "a man riding a bicycle",
+    "relevant_ids": ["sc_00003", "sc_00012"]
+  },
+  {
+    "id": "t02",
+    "mode": "text",
+    "query": "people on a beach at sunset",
+    "relevant_ids": ["sc_00044"]
+  },
+  {
+    "id": "f01",
+    "mode": "face",
+    "query_image": "data/queries/face_p003.jpg",
+    "relevant_ids": ["fa_00007", "fa_00019"]
+  },
+  {
+    "id": "b01",
+    "mode": "fullbody",
+    "query_image": "data/queries/body_p010.jpg",
+    "relevant_ids": ["fb_00021"]
+  },
+  {
+    "id": "s01",
+    "mode": "similar",
+    "query_image": "data/queries/beach_01.jpg",
+    "relevant_ids": ["sc_00044", "sc_00051"]
+  }
+]

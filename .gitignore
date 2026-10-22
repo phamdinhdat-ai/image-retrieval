@@ -1,0 +1,24 @@
+# Credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+# Runtime / datasets / model weights
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.huggingface/
+.streamlit/secrets.toml
+data/images/
+data/metadata.csv
+data/captions.csv
+index/
+artifacts/
+*.onnx
+*.safetensors
+*.bin
+*.pt
+*.pkl

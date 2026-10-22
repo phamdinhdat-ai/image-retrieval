@@ -1,0 +1,6 @@
+# Optional original CLIP / ArcFace / DETR / Qwen pipeline
+-r requirements.txt
+accelerate>=0.30
+timm>=0.9
+onnxruntime>=1.16
+transformers>=4.50

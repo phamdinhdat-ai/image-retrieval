@@ -1,0 +1,63 @@
+{
+  "model": "claude-sonnet-5",
+  "records": 50,
+  "captioned": 30,
+  "cases": [
+    {
+      "question": "people riding bicycles",
+      "status": "Trích dẫn dữ liệu",
+      "ids": [
+        "sc_00009",
+        "sc_00003",
+        "sc_00013",
+        "sc_00014"
+      ],
+      "answer": "Các nguồn tìm được (chưa xác nhận mọi điều kiện trong câu hỏi):\n\n- [sc_00009] people on bicycles ride down a busy street\n- [sc_00003] A man on a bicycle riding next to a train\n- [sc_00013] Black and white photograph of two men on motorcycles.\n- [sc_00014] A row of motorcycles parked in front of a building.",
+      "latency_ms": 25932.14
+    },
+    {
+      "question": "a giraffe eating leaves",
+      "status": "Trích dẫn dữ liệu",
+      "ids": [
+        "sc_00030",
+        "sc_00025"
+      ],
+      "answer": "Các nguồn tìm được (chưa xác nhận mọi điều kiện trong câu hỏi):\n\n- [sc_00030] A giraffe grazing on a tree in the wilderness with other wildlife\n- [sc_00025] An eating area with a table and a few chairs.",
+      "latency_ms": 13.88
+    },
+    {
+      "question": "quantum computer superconducting chip",
+      "status": "Trích dẫn dữ liệu",
+      "ids": [],
+      "answer": "Chưa tìm thấy bằng chứng phù hợp trong dữ liệu. Hãy thử mô tả cụ thể hơn hoặc dùng từ khóa tiếng Anh khi API không khả dụng.",
+      "latency_ms": 14.71
+    },
+    {
+      "query": "a person riding a bicycle",
+      "status": "AI + caption",
+      "ids": [
+        "sc_00003",
+        "sc_00009"
+      ],
+      "answer": "Có hai ảnh phù hợp: ảnh [sc_00003] cho thấy một người đàn ông đi xe đạp cạnh một đoàn tàu, và ảnh [sc_00009] cho thấy nhiều người đi xe đạp trên một con phố đông đúc."
+    },
+    {
+      "query": "person riding a bicycle next to a train",
+      "status": "AI + caption",
+      "ids": [
+        "sc_00003",
+        "sc_00009"
+      ],
+      "answer": "Có, ảnh [sc_00003] có tàu (một người đi xe đạp cạnh tàu). Ảnh [sc_00009] không nhắc đến tàu, chỉ có người đi xe đạp trên đường phố."
+    },
+    {
+      "vision": true,
+      "status": "AI + ảnh",
+      "answer": "Người đàn ông đang đi xe đạp ngay bên cạnh một đoàn tàu [sc_00003]",
+      "ids": [
+        "sc_00003",
+        "sc_00030"
+      ]
+    }
+  ]
+}

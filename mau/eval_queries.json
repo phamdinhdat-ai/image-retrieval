@@ -1,0 +1,82 @@
+[
+  {
+    "id": "t01",
+    "mode": "text",
+    "query": "a pagoda on a hill above a lake",
+    "relevant_ids": [
+      "sc_00003"
+    ]
+  },
+  {
+    "id": "t02",
+    "mode": "text",
+    "query": "a cat with green eyes",
+    "relevant_ids": [
+      "sc_00002"
+    ]
+  },
+  {
+    "id": "t03",
+    "mode": "text",
+    "query": "a rocket launch at night",
+    "relevant_ids": [
+      "sc_00007"
+    ]
+  },
+  {
+    "id": "t04",
+    "mode": "text",
+    "query": "a red motorcycle indoors",
+    "relevant_ids": [
+      "sc_00006"
+    ]
+  },
+  {
+    "id": "t05",
+    "mode": "text",
+    "query": "a cup of coffee on a table",
+    "relevant_ids": [
+      "sc_00004"
+    ]
+  },
+  {
+    "id": "t06",
+    "mode": "text",
+    "query": "a bus on a city street",
+    "relevant_ids": [
+      "sc_00001"
+    ]
+  },
+  {
+    "id": "t07",
+    "mode": "text",
+    "query": "an orange flower",
+    "relevant_ids": [
+      "sc_00005"
+    ]
+  },
+  {
+    "id": "f01",
+    "mode": "face",
+    "query_image": "mau/queries/face_query_astronaut.jpg",
+    "relevant_ids": [
+      "fa_00001"
+    ]
+  },
+  {
+    "id": "b01",
+    "mode": "fullbody",
+    "query_image": "mau/queries/fullbody_query_zidane.jpg",
+    "relevant_ids": [
+      "fb_00001"
+    ]
+  },
+  {
+    "id": "s01",
+    "mode": "similar",
+    "query_image": "mau/queries/similar_query_coffee.jpg",
+    "relevant_ids": [
+      "sc_00004"
+    ]
+  }
+]

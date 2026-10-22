@@ -1,0 +1,3 @@
+system,mode,P@K,R@K,AP@K,latency_ms
+baseline,text,0.375,0.797,0.812,0.722
+lightweight,text,0.521,0.969,1.0,12.881

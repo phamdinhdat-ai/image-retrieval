@@ -1,0 +1,10 @@
+image_id,path,category,caption,person_id
+fa_00001,mau/images/face/p001/astronaut.jpg,face,,p001
+fb_00001,mau/images/fullbody/p002/zidane.jpg,fullbody,,p002
+sc_00001,mau/images/scene/bus_street.jpg,scene,a white and blue city bus on a street with pedestrians walking past,
+sc_00002,mau/images/scene/cat_chelsea.jpg,scene,a close-up of a tabby cat with green eyes,
+sc_00003,mau/images/scene/china_pagoda.jpg,scene,a multi-tiered pagoda with green roof on a hill above a lake,
+sc_00004,mau/images/scene/coffee_cup.jpg,scene,a cup of coffee in a red saucer with a spoon on a wooden table,
+sc_00005,mau/images/scene/flower_dahlia.jpg,scene,an orange dahlia flower against a dark green background,
+sc_00006,mau/images/scene/motorcycle_room.jpg,scene,a red motorcycle parked in a storage room with cardboard boxes,
+sc_00007,mau/images/scene/rocket_launch.jpg,scene,a rocket on a launch pad at night with bright lights and gantry towers,
